@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a9beeb53-d5a1-4069-b91d-102dd149ba3c/resourceGroups/udacity-azure-project/providers/Microsoft.Web/sites/My-Flask-Article-WebApp",
+    "appService.deploySubpath": "."
+}
